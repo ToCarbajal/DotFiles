@@ -1,0 +1,1065 @@
+: 1646163949:11;$SHELL
+: 1646163963:0;exit
+: 1646163933:32;$SHELL
+: 1646163967:0;exit
+: 1646164006:8;nano /home/toc/.config/qtile/config.py
+: 1646276071:0;ll
+: 1646276085:138;nano .zshrc
+: 1646276230:0;pwd
+: 1646276233:0;cdr
+: 1646276239:0;whoami
+: 1646276252:16;nano .zshrc
+: 1646276292:150;nano /home/toc/.config/qtile/sxhkd/sxhkdrc
+: 1646276445:0;sr
+: 1646277799:0;cd /usr/share/backgrounds/arcolinux
+: 1646277808:0;ll
+: 1646277815:1524;feh -F -d
+: 1646279399:0;exit
+: 1646276615:0;cdr
+: 1646276619:20;nanoqh
+: 1646276646:0;pwd
+: 1646276651:0;whoami
+: 1646276656:0;clear
+: 1646276685:0;ll
+: 1646276757:0;cd /home/toc/
+: 1646276759:0;pwd
+: 1646276761:0;ll
+: 1646276771:2;nano .xsession
+: 1646276778:4;nano .xsessionrc
+: 1646276791:14;nano .xinitrc
+: 1646276879:0;cd .config
+: 1646276888:0;cd qtile
+: 1646276927:0;ll
+: 1646276958:9;nano arcobattery.py
+: 1646277074:0;cd scripts
+: 1646277075:0;ll
+: 1646277089:2306;nano autostart.sh
+: 1646279423:0;sr
+: 1646279545:0;ll
+: 1646279557:178;nano .zshrc
+: 1646279739:0;exit
+: 1646279614:0;which powerline
+: 1646279671:0;cd /usr/share/oh-my-zsh
+: 1646279672:0;ll
+: 1646279676:0;cd themes
+: 1646279677:0;ll
+: 1646279741:0;exit
+: 1646279846:0;cdr
+: 1646279854:0;cd /home/toc/
+: 1646279857:0;ll
+: 1646279898:0;cd .config/qtile
+: 1646279912:0;ll
+: 1646279920:0;cd sxhkd
+: 1646280297:8;nano sxhkdrc
+: 1646280328:0;sr
+: 1646280514:0;exit
+: 1646280618:0;ll
+: 1646280625:4;nanoqh
+: 1646280643:0;exit
+: 1646280646:0;ll
+: 1646280652:0;exit
+: 1646280431:62;nanoqh
+: 1646280548:161;nano /home/toc/.zshrc
+: 1646280711:0;sr
+: 1646280757:0;ll
+: 1646280762:14;nanoqh
+: 1646280785:45;nano .zshrc
+: 1646280837:0;pwd
+: 1646280858:0;ll .config/qtile
+: 1646280901:0;ll
+: 1646280917:137;nano picom.conf
+: 1646281070:11;nano picom-toggle.sh
+: 1646281088:37;nano set-pywal.sh
+: 1646281134:21;nano autostart.sh
+: 1646281160:0;sr
+: 1646281256:0;exit
+: 1646281303:192;$SHELL
+: 1646281497:0;exit
+: 1646281237:0;ranger
+: 1646281985:0;exit
+: 1646281981:4;$SHELL
+: 1646281987:0;exit
+: 1646282036:15;ranger
+: 1646282054:0;exit
+: 1646282063:34;ranger
+: 1646282099:0;exit
+: 1646282111:28;ranger
+: 1646282142:0;exit
+: 1646282417:90;ranger
+: 1646282510:0;exit
+: 1646282522:37;ranger
+: 1646282562:0;exit
+: 1646281505:0;clear
+: 1646281516:0;ll
+: 1646281525:0;cd .config
+: 1646281526:0;ll
+: 1646281556:0;cd ranger
+: 1646281558:0;ll
+: 1646281615:0;cdr
+: 1646281635:0;ranger --copy-config=all
+: 1646281753:0;cd /home/toc/.config/ranger
+: 1646281755:0;ll
+: 1646281867:706;nano rc.conf
+: 1646284034:0;env
+: 1646281502:4134;$SHELL
+: 1646281502:4134;$SHELL
+: 1646350283:0;exit
+: 1646351142:208;$SHELL
+: 1646351352:0;exit
+: 1646351118:234;$SHELL
+: 1646351354:0;exit
+: 1646351079:275;$SHELL
+: 1646351355:0;exit
+: 1646351008:347;$SHELL
+: 1646351357:0;exit
+: 1646350991:366;$SHELL
+: 1646351358:0;exit
+: 1646350958:400;$SHELL
+: 1646351359:0;exit
+: 1646334165:0;cd /home/toc/.config/neofetch
+: 1646334166:0;ll
+: 1646334181:0;cp config.conf config_bu.conf
+: 1646334182:0;ll
+: 1646334316:0;which neovim
+: 1646334335:9;sudo pacman -S neovim
+: 1646334474:351;nvim /home/toc/.config/qtile/config.py
+: 1646334831:97;vimtutor
+: 1646334969:0;ll
+: 1646334980:15164;nvim config.conf
+: 1646350838:0;nano config.conf
+: 1646352328:0;pwd
+: 1646352356:0;su
+: 1646418984:0;exit
+: 1646446514:0;ll
+: 1646446944:0;exit
+: 1646418925:28088;nano /home/toc/.config/neofetch/config.conf
+: 1646447016:475;su
+: 1646447493:0;exit
+: 1646450369:623;nanoqh
+: 1646450996:0;exit
+: 1646447759:0;find -type f -name '*sonic*'
+: 1646447761:0;cdr
+: 1646447763:1;find -type f -name '*sonic*'
+: 1646447784:1;find -type f -name '*sonicrad*'
+: 1646447838:0;ll ./usr/share/oh-my-zsh/themes
+: 1646448761:0;pwd
+: 1646449170:0;fc-list | grep 'meslo'
+: 1646449177:0;fc-list | grep 'hack'
+: 1646449219:0;fc-list | grep "hack"
+: 1646449226:0;fc-list | grep "source"
+: 1646449239:0;fc-list | grep "SourceCode"
+: 1646449353:0;cd /home/toc/Downloads
+: 1646449355:0;ll
+: 1646449375:0;ll /usr/share/fonts
+: 1646449401:0;cd ttf
+: 1646449406:0;cd TTF
+: 1646449416:0;ll /usr/share/fonts/TTF
+: 1646449442:0;ll /home/toc/Downloads
+: 1646449540:0;cp Meslo* /usr/share/fonts/TTF/
+: 1646449551:4;sudo cp Meslo* /usr/share/fonts/TTF/
+: 1646449580:0;fc-list | grep 'Meslo' 
+: 1646451117:0;exit
+: 1646454182:0;which powerlevel
+: 1646455815:0;exit
+: 1646447545:8273;su
+: 1646455821:0;exit
+: 1646456079:0;pwd
+: 1646456084:0;cdr
+: 1646456086:0;ll
+: 1646456093:3;nanoqh
+: 1646456115:92;su
+: 1646456209:0;exit
+: 1646456564:0;fc-list | grep ' NF '
+: 1646456663:0;exit
+: 1646456510:0;cd /home/toc/.config/alacritty
+: 1646456510:0;ll
+: 1646456523:141;nano alacritty.yml
+: 1646456666:0;exit
+: 1646456673:0;ll
+: 1646456713:67;nano /home/toc/.config/alacritty/alacritty.yml
+: 1646456783:0;exit
+: 1646456808:44;nano /home/toc/.zshrc
+: 1646456854:0;sr
+: 1646457163:35;su
+: 1646457199:0;exit
+: 1646457155:0;cdr
+: 1646457210:0;exit
+: 1646457148:0;pwd
+: 1646457233:94;p10k configure
+: 1646457338:0;whoami
+: 1646457341:531;su
+: 1646457874:0;exit
+: 1646457893:175;su
+: 1646458073:0;exit
+: 1646459379:0;find -type f -name 'Arc-Dark'
+: 1646459382:0;cdr
+: 1646459384:53;su
+: 1646459440:0;exit
+: 1646458908:1350;su
+: 1646460259:0;exit
+: 1646460274:0;sr
+: 1646460363:0;exit
+: 1646460325:0;su
+: 1646460845:0;cd .config
+: 1646460846:0;ll
+: 1646460851:0;cd gtk-3.0
+: 1646460852:0;ll
+: 1646460855:44;nano settings.ini
+: 1646460900:0;sr
+: 1646461221:0;exit
+: 1646461480:18;su
+: 1646461504:0;exit
+: 1646461564:0;su
+: 1646460987:0;cd .config
+: 1646460993:0;cd xfce4
+: 1646460994:0;ll
+: 1646461007:0;cd terminal
+: 1646461008:0;ll
+: 1646461013:0;cd..
+: 1646461016:0;cd xfconf
+: 1646461017:0;ll
+: 1646461019:0;cd..
+: 1646461031:0;cd panel
+: 1646461032:0;ll
+: 1646461036:0;cd..
+: 1646461040:0;ll
+: 1646461045:0;cd gtk-3.0
+: 1646461046:0;ll
+: 1646461049:31;nano settings.ini
+: 1646461107:0;cd..
+: 1646461109:0;ll
+: 1646461115:0;cd..
+: 1646461117:0;ll
+: 1646461135:417;nano .p10k.zsh
+: 1646461931:7;nano .lyxauth
+: 1646461952:20;nano .screenrc
+: 1646463703:7;nano .xsession
+: 1646463713:4;nano .xsessionrc
+: 1646463733:7;nano .xinitrc
+: 1646463747:0;cd .w3m
+: 1646463748:0;ll
+: 1646463750:0;cd..
+: 1646463760:10;nano .fehbg
+: 1646463782:0;cd .config
+: 1646463784:0;ll
+: 1646463889:0;sr
+: 1646466380:41;su
+: 1646466425:0;exit
+: 1646466436:34;su
+: 1646466472:0;exit
+: 1646466534:44;su
+: 1646466581:0;exit
+: 1646466641:58;su
+: 1646466701:0;exit
+: 1646466178:560;nano /home/toc/.p10k.zsh
+: 1646466743:168;su
+: 1646466914:0;exit
+: 1646466917:86;su
+: 1646467005:0;exit
+: 1646467020:137;su
+: 1646467162:0;exit
+: 1646465280:0;cdr
+: 1646465282:2413;su
+: 1646467697:0;exit
+: 1646467501:198;su
+: 1646467700:0;exit
+: 1646469257:376;su
+: 1646469634:0;exit
+: 1646469638:42;su
+: 1646469681:0;exit
+: 1646467721:5;nano /home/toc/.config/qtile/config.py
+: 1646467922:1414;nano /home/toc/.config/neofetch/config.conf
+: 1646469347:0;cdr
+: 1646469348:1;ll
+: 1646469352:0;cd root
+: 1646469356:331;su
+: 1646469689:0;exit
+: 1646470352:24;nano /home/toc/.config/alacritty/alacritty.yml
+: 1646470379:0;exit
+: 1646470383:0;ll
+: 1646470395:84;nano /home/toc/.config/alacritty/alacritty.yml
+: 1646470498:0;cd .config
+: 1646470500:0;ll
+: 1646470506:0;cd gtk-3.0
+: 1646470507:0;ll
+: 1646470513:66;nano settings.ini
+: 1646470582:0;sr
+: 1646470641:0;ll
+: 1646470734:0;cdr
+: 1646470754:443;su
+: 1646471202:0;exit
+: 1646472858:1;fc-list | grep 'NF'
+: 1646472930:0;exit
+: 1646471352:27;nano /home/toc/.config/alacritty/alacritty.yml
+: 1646471384:0;su
+: 1646680802:0;exit
+: 1646678734:0;ll /usr/share/rofi/themes
+: 1646678743:1;nano nord.rasi
+: 1646678800:48;nano /usr/share/rofi/themes/nord.rasi
+: 1646678902:14;sudo nano /usr/share/rofi/themes/nord.rasi 
+: 1646682965:0;exit
+: 1646683067:0;ll
+: 1646683070:0;cd .config
+: 1646683072:0;ll
+: 1646683087:0;cd qtile
+: 1646683089:0;ll
+: 1646683100:0;cd themes
+: 1646683101:0;ll
+: 1646683153:0;cd..
+: 1646683160:0;cd scripts
+: 1646683162:0;ll
+: 1646683174:7;nano picom.conf
+: 1646683192:5;nano picom-toggle.sh
+: 1646683205:0;cd..
+: 1646683210:0;cd sxhkd
+: 1646683211:0;ll
+: 1646683215:10;nano sxhkdrc
+: 1646683398:0;cd..
+: 1646683409:56;nano scripts/picom.conf
+: 1646683667:0;exit
+: 1646682979:0;su
+: 1646684273:0;exit
+: 1646695463:0;cd Pictures
+: 1646695464:0;ll
+: 1646694530:0;su
+: 1646695626:0;exit
+: 1646695886:1;feh --bg-fill /home/toc/Pictures/PixeledMilkyWay.png
+: 1646695930:0;feh --help
+: 1646695999:0;feh --bg-center /home/toc/Pictures/PixeledMilkyWay.png
+: 1646696008:0;feh --bg-tile /home/toc/Pictures/PixeledMilkyWay.png
+: 1646696015:0;feh --bg-fill /home/toc/Pictures/PixeledMilkyWay.png
+: 1646696226:0;feh --bg-fill /home/toc/Pictures/pixeled_the_wave.png
+: 1646696241:0;feh --bg-center /home/toc/Pictures/pixeled_the_wave.png
+: 1646696248:0;feh --bg-tile /home/toc/Pictures/pixeled_the_wave.png
+: 1646696293:0;feh --bg-scale /home/toc/Pictures/pixeled_the_wave.png
+: 1646696302:0;feh --bg-fill /home/toc/Pictures/pixeled_the_wave.png
+: 1646696319:0;exit
+: 1646695747:0;su
+: 1646695637:22;ranger
+: 1646695663:0;$SHELL
+: 1646696984:0;su
+: 1646699502:0;exit
+: 1646701970:0;gc-list | grep 'NF'
+: 1646701975:0;fc-list | grep 'NF'
+: 1646702004:0;exit
+: 1646703547:0;cd /home/toc/.config/qtile
+: 1646703549:0;ll
+: 1646703560:396;nano config_BU.py 
+: 1646703958:0;exit
+: 1646704016:0;cd /h/t/.con/qttile
+: 1646704022:0;cd /home/toc/.config/qtile
+: 1646704024:0;ll
+: 1646704033:63;nano config_BU.py
+: 1646704102:116;sudo nano config_BU.py
+: 1646704220:0;exit
+: 1646704934:269;nanoqh
+: 1646705213:0;su
+: 1646705513:0;cd /home/toc/.config/qtile
+: 1646705517:0;ll
+: 1646705528:0;nano config.py.bak
+: 1646706080:0;sr
+: 1646706139:0;su
+: 1646708398:0;df --help
+: 1646708422:0;clear
+: 1646708424:0;cdr
+: 1646708429:0;df -h
+: 1646708453:0;exit
+: 1646706807:0;cd /home/toc/.config/qtile
+: 1646706809:0;ll
+: 1646706829:4922;nano config_nord.py
+: 1646711754:0;exit
+: 1646713249:0;clear
+: 1646713254:0;which brightnessctl
+: 1646714666:0;exit
+: 1646711893:2777;nano /home/toc/.config/qtile/config_nord.py
+: 1646714697:11;sudo pacman -S brightnessctl
+: 1646714764:0;cd /home/toc/.config/qtile/scripts
+: 1646714765:0;ll
+: 1646714769:0;cd..
+: 1646714772:0;cd sxhkd
+: 1646714776:0;ll
+: 1646714778:16;nano sxhkdrc
+: 1646714945:9;sudo pacman -S brightnessctl
+: 1646715287:18;pacman -S brightnessctl
+: 1646715377:0;exit
+: 1646715381:0;su
+: 1646714917:0;su
+: 1646715738:0;exit
+: 1646716067:0;brightnessctl i
+: 1646716077:0;brightnessctl -l
+: 1646716121:0;brightnessctl i
+: 1646716164:0;brightnessctl -m
+: 1646716180:0;brightnessctl -c
+: 1646716916:0;brightnessctl i
+: 1646716984:0;nano /home/toc/.config/qtile/sxhkd/sxhkdrc
+: 1646718131:0;clear
+: 1646718152:0;cd /etc/udev/rules.d
+: 1646718153:0;ll
+: 1646718162:0;cd..
+: 1646718164:0;ll
+: 1646718210:0;ll /usr/lib/udev/rules.d/
+: 1646718228:111;ll /usr/lib/udev/rules.d/ | more
+: 1646718350:0;ll /usr/lib/udev/rules.d/ | grep 'video'
+: 1646718355:0;ll /usr/lib/udev/rules.d/ | grep 'imput'
+: 1646718359:0;ll /usr/lib/udev/rules.d/ | grep 'input'
+: 1646718388:0;ll /usr/lib/udev/rules.d/ | grep 'back'
+: 1646717226:0;su
+: 1646719296:0;cd /sys/class/backlight
+: 1646719298:0;ll
+: 1646719476:0;groups toc
+: 1646719785:0;cd intel_backlight
+: 1646719788:0;ll
+: 1646719812:3;nano brightness
+: 1646720163:0;ll /etc/udev/rules.d
+: 1646720180:0;ll /usr/lib/udev/rules.d
+: 1646720281:0;ll /usr/lib/udev/rules.d/90-pulseaudio.rules
+: 1646720290:11;nano /usr/lib/udev/rules.d/90-pulseaudio.rules
+: 1646720307:4;nano /usr/lib/udev/rules.d/45-i2c-tools.rules
+: 1646720409:11;nano /usr/lib/udev/rules.d/90-brightnessctl.rules
+: 1646720428:0;su
+: 1646722742:0;brightnessctl i
+: 1646722790:0;cd /sys/class
+: 1646722792:0;ll
+: 1646722802:0;cd backlight
+: 1646722803:0;ll
+: 1646722813:0;cd intel_backlight
+: 1646722816:0;ll
+: 1646722862:2;nano actual_brightness
+: 1646723151:0;exit
+: 1646722438:60;nanoqh
+: 1646722520:0;su
+: 1646725801:0;cd /home/toc/.config/qtile/
+: 1646725802:1;ll
+: 1646725821:28;nano config.py.bak
+: 1646725853:0;exit
+: 1646726042:0;su
+: 1646758044:0;python pip install iwlib
+: 1646758053:0;which pip
+: 1646758120:7;sudo pacman -S python-pip
+: 1646758132:0;which pip
+: 1646758141:4;pip install iwlib
+: 1646758149:0;exit
+: 1646758243:2;pip install dbus-next
+: 1646758248:0;exit
+: 1646758393:0;su
+: 1646763826:0;which iwtl
+: 1646763868:0;which iwlib
+: 1646763902:0;which dbus-next
+: 1646763921:0;pip --list
+: 1646763927:0;pip --help
+: 1646763961:1;pip list
+: 1646764840:0;exit
+: 1646765887:0;cd /home/toc/.config/qtile
+: 1646765888:0;ll
+: 1646765893:0;cd scripts
+: 1646765894:0;ll
+: 1646765900:0;nano picom.conf
+: 1646766444:46;ranger
+: 1646766492:0;exit
+: 1646765287:0;su
+: 1646767553:0;clear
+: 1646767581:0;ll
+: 1646767678:0;mkdir Repositories
+: 1646767683:0;ls
+: 1646767691:0;cd Public
+: 1646767692:0;ll
+: 1646767694:0;cd..
+: 1646767704:0;pwd
+: 1646767721:407;nano .zshrc
+: 1646768134:0;pwd
+: 1646768154:65;nano .zshrc
+: 1646768224:0;cdr
+: 1646768227:0;ll
+: 1646768234:0;cd root
+: 1646768237:0;su
+: 1646769007:0;gtrepo
+: 1646769156:4;sudo pacman -S --needed base-devel git
+: 1646769194:2;git clone https://aur.archlinux.org/pikaur.git
+: 1646769204:0;cd pikaur
+: 1646769210:0;pwd
+: 1646769221:52;makepkg -fsri
+: 1646769282:0;sr
+: 1646776224:9;sudo pikaur -Ss qtile-extras-git
+: 1646776264:0;cdr
+: 1646776276:40;sudo pikaur -S qtile-extras-git
+: 1646776325:0;sr
+: 1646776683:0;su
+: 1646784289:0;iwctl
+: 1646784295:0;ip a
+: 1646785334:0;cd /home/toc/.config/qtile
+: 1646785335:0;ll
+: 1646785421:133;nano config_BU.py
+: 1646785882:0;su
+: 1646788555:0;sudo systemctl status bluetooth
+: 1646789684:0;cd /dev/bus
+: 1646789685:0;ll
+: 1646789690:0;cd usb
+: 1646789691:0;ll
+: 1646792553:0;exit
+: 1646788724:209;bluetoothctl
+: 1646788947:0;bluetoothctl --help
+: 1646788990:0;bluetoothctl show
+: 1646788998:0;bluetoothctl info
+: 1646789041:0;bluetoothctl list
+: 1646789067:0;ll /sys/class/bluetooth
+: 1646789092:0;cd hci0
+: 1646789126:1;nano hci0
+: 1646789141:0;cd /sys/class/bluetooth
+: 1646789142:0;ll
+: 1646789146:0;cd hci0
+: 1646789147:0;ll
+: 1646789549:0;cd device
+: 1646789550:0;ll
+: 1646791196:0;which dbus-next
+: 1646791202:1;pip list
+: 1646791744:0;bluetoothctl show
+: 1646791769:0;bluetoothctl status
+: 1646791774:0;bluetoothctl --help
+: 1646791812:0;bluetoothctl devices
+: 1646791861:0;bluetoothctl power
+: 1646791864:0;bluetoothctl power on
+: 1646791873:0;bluetoothctl scan
+: 1646791876:12;bluetoothctl scan on
+: 1646791936:0;bluetoothctl info
+: 1646791957:0;bluetoothctl info E8:B1:FC:4F:8A:98
+: 1646791969:0;bluetoothctl show
+: 1646792600:0;ll
+: 1646792603:0;cd bluetooth
+: 1646792604:0;ll
+: 1646792608:0;cd hci0
+: 1646792609:0;ll
+: 1646792616:0;cd device
+: 1646792617:0;ll
+: 1646792625:0;cd bluetooth
+: 1646792627:0;ll
+: 1646792630:0;cd hci0
+: 1646792632:0;ll
+: 1646792638:0;cd device
+: 1646792639:0;ll
+: 1646792662:0;cd bluetooth
+: 1646792664:0;ll
+: 1646792768:0;cd hci0
+: 1646792769:0;ll
+: 1646792794:0;cd device
+: 1646792795:0;pwd
+: 1646792908:0;cd /sys/class/bluetooth
+: 1646792909:0;ll
+: 1646792917:313;ranger
+: 1646793236:0;exit
+: 1646795072:0;pwd
+: 1646795077:0;cd Pictures
+: 1646795078:1;ll
+: 1646795093:0;mkdir Wallpapers
+: 1646795107:0;mv *.* Wallpapers
+: 1646795109:0;ll
+: 1646795114:0;cd Wallpapers/
+: 1646795115:0;ll
+: 1646795175:0;cd..
+: 1646795185:0;mkdir Screenshots
+: 1646795416:0;ll
+: 1646795462:0;scrot 'ArcoLinux-%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES)'
+: 1646795474:0;ll
+: 1646795487:0;scrot --help
+: 1646798472:0;scrot 'ArcoLinux-%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES/Screenshots/)'
+: 1646798528:0;scrot 'ArcoLinux-%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(/home/toc/Pictures/Screenshots/)'
+: 1646798574:0;ll
+: 1646798586:0;rm ArcoL*.jpg
+: 1646798587:0;ll
+: 1646798790:0;scrot
+: 1646798794:0;ll
+: 1646798807:0;rm 2022-*.png
+: 1646798814:0;scrot -h
+: 1646798819:29;man scrot
+: 1646798854:0;scrot -a
+: 1646798858:111;man scrot
+: 1646798973:3;scrot -s
+: 1646798980:0;ll
+: 1646798986:3;feh -F
+: 1646799006:0;rm 2022-*.png
+: 1646799125:0;ll
+: 1646799182:215;man scrot
+: 1646799399:0;ll
+: 1646799403:0;cd Screenshots
+: 1646799404:0;ll
+: 1646799409:3;feh -F
+: 1646799423:0;rm sc_*.png
+: 1646799425:0;cd..
+: 1646799426:0;ll
+: 1646799579:0;cd Screenshots
+: 1646799580:0;ll
+: 1646799589:0;rm sc_*_qt.png
+: 1646799721:0;ll
+: 1646799734:17;feh -F
+: 1646800902:0;ll
+: 1646800906:0;rm *.png
+: 1646800908:0;ll
+: 1646800910:0;exit
+: 1646793265:0;cd /sys/class/bluetooth
+: 1646793266:0;ll
+: 1646793279:0;cd 'readlink hcio'
+: 1646793300:0;cd $(readlink hcio)
+: 1646793303:0;pwd
+: 1646793317:0;cd /sys/class/bluetooth
+: 1646793318:0;ll
+: 1646793337:1409;thunar
+: 1646794754:0;which scrot
+: 1646794762:0;scrot --help
+: 1646794989:0;which escrotum
+: 1646799106:9;scrot -s
+: 1646799389:3;scrot -s -F "/home/toc/Pictures/Screenshots/sc_%Y%m%d_arcolinux.png"
+: 1646799444:10;scrot -s -F "/home/toc/Pictures/Screenshots/sc_%Y%m%d_hci0.png"
+: 1646799604:7;scrot -s -F "/home/toc/Pictures/Screenshots/sc_%Y%m%d_qt.png"
+: 1646801914:0;cd /home/toc/.config/qtile/sxhkd
+: 1646801917:159;nano sxhkdrc
+: 1646802078:0;exit
+: 1646801981:0;cd Pictures
+: 1646801983:0;ll
+: 1646802080:0;exit
+: 1646802241:0;cd Pictures
+: 1646802243:0;ll
+: 1646802261:0;su
+: 1646802398:0;cd /home/toc/.config/qtile/scripts
+: 1646802403:0;cd..
+: 1646802405:0;cd sxhkd
+: 1646802408:0;pwd
+: 1646802423:0;ll
+: 1646802710:121;updqth
+: 1646802641:0;cd Pictures
+: 1646802643:0;ll
+: 1646802659:160;updsx
+: 1646802833:0;sr
+: 1646802911:0;cd Pictures/Screenshots
+: 1646802912:0;ll
+: 1646802920:2;feh -F
+: 1646803171:0;exit
+: 1646802889:0;su
+: 1646803371:0;cd /usr/share/rofi/themes
+: 1646803379:148;nano nord.rasi
+: 1646803442:0;su
+: 1646803851:0;fc-list | grep 'NF'
+: 1646803927:0;cd /usr/share/rofi/themes
+: 1646803931:469;nano nord.rasi
+: 1646804402:0;exit
+: 1646804414:0;exit
+: 1646804899:0;ssn
+: 1646842468:0;exit
+: 1646842485:39;su
+: 1646842526:0;exit
+: 1646843087:0;10
+: 1646843232:17;man ranger
+: 1646843255:0;exit
+: 1646842974:70;man mc
+: 1646843049:0;mc -C
+: 1646843057:4;man mc
+: 1646843063:27;mc -c
+: 1646843100:102;man mc
+: 1646843206:8;ranger
+: 1646843221:34;$SHELL
+: 1646843257:0;exit
+: 1646843316:35;ranger
+: 1646843355:0;exit
+: 1646843262:96;su
+: 1646843360:0;exit
+: 1646844175:0;su
+: 1646842545:0;su
+: 1646844396:0;exit
+: 1646844498:0;ranger
+: 1646844518:0;exit
+: 1646844650:0;ranger
+: 1646844670:0;xit
+: 1646844672:0;exit
+: 1646844747:1;ranger
+: 1646844817:0;exit
+: 1646844821:38;ranger
+: 1646844870:0;exit
+: 1646845181:6;ranger
+: 1646845192:0;exit
+: 1646844541:0;su
+: 1646844432:0;su
+: 1646850931:0;which bluex
+: 1646850933:0;which bluez
+: 1646850953:3;pacman -Ss bluez
+: 1646850988:0;which hcitool 
+: 1646851043:0;man hcitool
+: 1646851140:7;sudo pacman -S bluez
+: 1646851152:0;man hcitool
+: 1646851158:0;hcitool dev
+: 1646851190:6;man bluetooth
+: 1646851198:0;man bluetoothctl
+: 1646851530:0;bluetoothctl
+: 1646852509:1;bluetooth
+: 1646852516:3;bluetooth off
+: 1646852540:1;bluetooth on
+: 1646852565:14;man bluetooth
+: 1646852597:0;bluetooth toogle
+: 1646852605:3;bluetooth off
+: 1646852611:0;clear
+: 1646852625:0;bluetooth
+: 1646852643:0;bluetooth on
+: 1646852665:3;bluetooth off
+: 1646852703:20;bluetoothctl
+: 1646852729:0;bluetooth on
+: 1646852738:1462;bluetoothctl
+: 1646854203:0;exit
+: 1646853111:944;updqth
+: 1646854219:0;sr
+: 1646854296:0;bluetoothctl
+: 1646854372:0;su
+: 1646855035:115;bluetoothctl
+: 1646855240:1;find -name 'bluez'
+: 1646855243:0;cdr
+: 1646855245:0;su
+: 1646855155:192;python
+: 1646855390:0;bluetoothctl
+: 1646857187:0;exit
+: 1646856256:0;su
+: 1646865126:6;pacman -Ss feet
+: 1646865874:5;pacman -Ss bluez
+: 1646865902:1;sudo pacman -Ss feet
+: 1646865920:10;sudo pacman -S d-feet
+: 1646865948:0;man d-feet
+: 1646865956:0;d-feet --help
+: 1646866458:194;bluetoothctl
+: 1646866664:3;pacman -Ss qtile
+: 1646867497:0;cd /home/toc/.config/qtile
+: 1646867499:0;ll
+: 1646867504:155;nano config_BU.py
+: 1646867662:0;exit
+: 1646867921:45;bluetoothctl
+: 1646867968:0;exit
+: 1646867078:0;su
+: 1646868387:0;bluetoothctl power off
+: 1646868573:0;su
+: 1646869049:0;bluetoothctl power off
+: 1646869059:0;bluetooth power on
+: 1646869067:0;bluetoothctl power off
+: 1646869125:0;ssn
+: 1646869378:37;ranger
+: 1646869420:0;exit
+: 1646869557:0;iw
+: 1646869580:20;man iw
+: 1646869640:0;exit
+: 1646869736:0;which wpa_supplicant
+: 1646869751:0;wpa_supplicant --help
+: 1646869900:0;ssn
+: 1646873040:0;bluetoothctl power off
+: 1646872910:0;su
+: 1646873287:0;bluetoothctl status
+: 1646873293:0;bluetoothctl
+: 1646878203:2;sudo pacman -Ss rofi-calc
+: 1646878217:4;sudo pacman -S rofi-calc
+: 1646878257:36;rofi -show calc -modi calc -no-show-match -no-sort
+: 1646878320:8;rofi -show calc -modi calc
+: 1646878380:0;sudo pacman -Ss qalculate
+: 1646873483:0;su
+: 1646879614:0;xdotool type "Hello"
+: 1646879645:0;su
+: 1646879349:0;clear
+: 1646879476:4;sudo pacman -Ss xdotool
+: 1646879514:112;man xdotool
+: 1646879736:4;sudo  rofi -modi calc -show calc -calc-command 'xdotool type --clearmodifiers "{result}"'
+: 1646880707:0;su
+: 1646880807:105;updsx
+: 1646880914:0;su
+: 1646886752:9;rofi -modi calc -show calc -calc-command 'xdotool type --clearmodifiers "{result}"'
+: 1646886825:10;sudo rofi -modi calc -show calc -calc-command 'xdotool type --clearmodifiers "{result}"'
+: 1646886868:6;su
+: 1646886911:0;sudo rofi -modi calc -show calc -calc-command 'xdotool type --clearmodifiers "{result}"'
+: 1646887325:0;exit
+: 1646887103:0;su
+: 1646887150:12;updqth
+: 1646887441:0;updsx
+: 1646887071:0;cd /usr/share/rofi/themes
+: 1646887266:35;sudo rofi -modi calc -show calc -calc-command 'xdotool type --clearmodifiers "{result}"'
+: 1646887338:106;nano nord.rasi
+: 1646887520:12;sudo rofi -show calc -calc-command 'xdotool type --clearmodifiers "{result}"'
+: 1646887840:3;sudo rofi -calc-command 'xdotool type --clearmodifiers "{result}"'
+: 1646887907:7;sudo rofi -show calc -calc-command 'xdotool type --clearmodifiers "{result}"'
+: 1646888274:6;rofi -show calc -calc-command 'xdotool type --clearmodifiers "{result}"'
+: 1646888504:0;ssn
+: 1646955861:0;exit
+: 1646956134:0;cdr
+: 1646956136:172;su
+: 1646956310:0;exit
+: 1646955918:0;su
+: 1646956600:0;ll
+: 1646956604:0;su
+: 1646956815:0;edzs
+: 1646956830:0;su
+: 1646957190:0;ll
+: 1646957242:0;edqt
+: 1646957259:0;sr
+: 1646957638:0;ll
+: 1646957665:186;su
+: 1646957853:0;exit
+: 1646957859:0;exit
+: 1646957950:50;sudo nano /home/toc/.config/neofetch/config.conf
+: 1646958033:0;clear
+: 1646958038:0;for i in {0..255}; do print -Pn "%K{$i}  %k%F{$i}${(l:3::0:)i}%f " ${${(M)$((i%6)):#3}:+$'\n'}; done
+: 1646958508:0;su
+: 1646959212:0;exit
+: 1646958939:0;bluetoothctl power on
+: 1646958948:0;bluetooth on
+: 1646958951:0;bluetoothctl power on
+: 1646958968:0;bluetoothctl scan
+: 1646958972:27;bluetoothctl scan on
+: 1646959073:0;bluetoothctl connect 9C:19:C2:C1:D5:1B
+: 1646959096:0;bluetoothctl Mi True Wireless EB Basic 2
+: 1646959103:0;bluetoothctl 'Mi True Wireless EB Basic 2'
+: 1646959111:0;bluetoothctl connect 'Mi True Wireless EB Basic 2'
+: 1646959137:0;bluetoothctl pair 9C:19:C2:C1:D5:1B
+: 1646959149:0;bluetoothctl pairing on
+: 1646959153:230;bluetoothctl
+: 1646959699:0;bluetooth on
+: 1646959702:1184;bluetoothctl
+: 1646962703:12;sudo pacman -Ss chrom
+: 1646962717:7;su
+: 1646962725:11;sudo pacman -Ss chrom
+: 1646962928:1;sudo pacman -Ss chromium
+: 1646963209:268;sudo pacman -S chromium
+: 1646963757:4;sudo pacman -Ss visual-studio
+: 1646963789:29;sudo pacman -S visual-studio-code-bin
+: 1646963916:0;sr
+: 1646964065:0;su
+: 1647023610:0;fc-list | grep 'mono'
+: 1647023616:0;fc-list | grep 'NF'
+: 1647023627:0;fc-list | grep 'code'
+: 1647024844:0;fc-list | grep 'SourceCode'
+: 1647024894:0;fc-list | grep 'SourceCodePro'
+: 1647025263:0;fc-list | grep 'Fira'
+: 1647029415:3;sudo pacman -Ss fira
+: 1647029463:0;sudo pacman -Ss ttf-fira
+: 1647029485:4;sudo pacman -S ttf-fira-code
+: 1647029496:0;exit
+: 1647029548:1;fc-list | grep 'fira'
+: 1647029553:0;fc-list | grep 'Fira'
+: 1647029579:0;clear
+: 1647029584:0;fc-list | grep 'Fira' -i
+: 1647031015:0;exit
+: 1647029512:0;su
+: 1647060220:11077;edqt
+: 1647472392:0;bluetooth on
+: 1647472399:0;bluetoothctl power on
+: 1647472417:0;bluetoothctl devoces
+: 1647472420:0;bluetoothctl devices
+: 1647472441:4721;bluetoothctl
+: 1647477165:0;clear
+: 1647543600:3;sudo pacman -Ss bpytop
+: 1647543621:3;sudo pacman -S bpytop
+: 1647543632:0;clear
+: 1647546418:0;su
+: 1647547502:0;sr
+: 1647543759:0;bpytop
+: 1647549552:0;clear
+: 1647549557:0;clear
+: 1647549563:1;bpytop
+: 1647549571:0;clear
+: 1647549635:0;bpytop
+: 1647549638:0;lear
+: 1647549640:0;clear
+: 1647549555:0;clear
+: 1647549534:0;su
+: 1647549735:0;clear
+: 1647549738:0;bpytop
+: 1647549775:0;clear
+: 1647549791:0;$SHELL
+: 1647550833:0;exit
+: 1647550380:0;clear
+: 1647550383:0;bpytop
+: 1647550376:0;clear
+: 1647550391:0;su
+: 1647552494:0;bpytop
+: 1647552480:0;clear
+: 1647552667:3;sudo pacman -Ss github
+: 1647552717:0;clear
+: 1647553174:0;which pykaur
+: 1647553180:0;which pikaur
+: 1647553183:0;clear
+: 1647564672:0;B
+: 1647678982:0;clear
+: 1647679603:4;sudo pacman -Ss docker
+: 1647679644:90;sudo pacman -S docker
+: 1647679741:0;sr
+: 1647678999:0;bpytop
+: 1647678984:0;su
+: 1647679831:0;clear
+: 1647680438:3;sudo pacman -Ss github desktop
+: 1647680456:1;sudo pacman -Ss github
+: 1647680495:2;sudo pikaur -Ss github
+: 1647680510:1;sudo pikaur -Ss github-desktop
+: 1647680819:0;clear
+: 1647680821:0;pwd
+: 1647680828:0;cd Documents
+: 1647680830:0;ll
+: 1647680841:0;mkdir EjemplosDocker
+: 1647680856:0;cd EjemplosDocker
+: 1647680858:0;clear
+: 1647685317:0;which unzip
+: 1647685772:0;ll
+: 1647685805:0;cd app
+: 1647685810:502;nano Dockerfile
+: 1647687801:0;docker build -t getting-started .
+: 1647687958:0;docker info
+: 1647687993:34;man docker
+: 1647688286:4;sudo systemctl start docker.service
+: 1647688307:0;sudo systemctl enable docker.service
+: 1647679818:0;clear
+: 1647679822:0;bpytop
+: 1647688393:0;clear
+: 1647688427:0;cd Documents/EjemplosDocker
+: 1647688430:0;cd app
+: 1647688432:0;clear
+: 1647688435:1;docker info
+: 1647688479:4;sudo docker info
+: 1647688576:0;groups
+: 1647688636:0;sudo groupadd docker
+: 1647688672:0;sudo usermod -aG docker toc
+: 1647688398:0;su
+: 1647689005:0;clear
+: 1647689013:0;docker ps
+: 1647688769:0;clear
+: 1647688774:0;bpytop
+: 1647689090:0;exit
+: 1647690109:0;cd Documents
+: 1647690111:0;cd EjemplosDocker
+: 1647690114:0;cd app
+: 1647690115:0;ll
+: 1647690129:0;cd etc
+: 1647690131:0;ll
+: 1647690228:0;cdr
+: 1647690232:0;cd etc
+: 1647690234:0;ll
+: 1647690592:0;cdr
+: 1647690594:0;clear
+: 1647690596:0;cd etc
+: 1647690598:0;ll
+: 1647690617:0;exit
+: 1647691145:110;sudo nano /home/toc/Documents/EjemplosDocker/app/src/static/js/app.js
+: 1647691258:0;exit
+: 1647689068:0;clear
+: 1647689516:0;docker ps
+: 1647689894:0;docker ps -a
+: 1647690449:0;docker ps
+: 1647690475:0;clear
+: 1647690479:0;docker ps -a
+: 1647690695:0;docker ps
+: 1647690715:0;docker ps -a
+: 1647691048:0;CLEAR
+: 1647691055:0;clear
+: 1647691060:0;docker ps -a
+: 1647693191:0;docker ps
+: 1647693207:0;docker ps -a
+: 1647693226:0;exit
+: 1647693778:0;clear
+: 1647693785:0;docker ps
+: 1647693801:0;clear
+: 1647688757:0;clear
+: 1647688782:1;docker info
+: 1647688809:0;docker version
+: 1647688901:0;docker build -t getting-started .
+: 1647688915:0;clear
+: 1647688922:0;cd Documents/EjemplosDocker/app
+: 1647688939:26;docker build -t getting-started .
+: 1647688969:0;docker ps
+: 1647688988:186;docker run getting-started
+: 1647689313:1;docker run -dp 3000:3000 getting-started
+: 1647689428:0;docker stop d3a1c7daafb8
+: 1647689435:1;docker run -dp 3000:3000 getting-started
+: 1647689504:1;docker stop 5a3fc177c5c/
+: 1647690404:1;docker run  -dv /home/toc/Documents/EjemplosDocker/app/etc:/etc/todos -p 3000:3000 getting-started 
+: 1647690468:1;docker stop 22dc8d893950
+: 1647690529:0;docker run  -dv /home/toc/Documents/EjemplosDocker/app/etc:/etc/todos -p 3000:3000 getting-started 
+: 1647690547:0;ll
+: 1647690551:0;cd etc
+: 1647690552:0;ll
+: 1647690687:0;docker stop
+: 1647690712:0;docker stop 840e0709fd78
+: 1647690792:0;cd..
+: 1647690802:0;l
+: 1647690805:0;ll
+: 1647690807:0;cd src
+: 1647690809:0;ll
+: 1647690821:0;cd static/js
+: 1647690822:0;ll
+: 1647690831:47;nano app.js
+: 1647690890:26;sudo nano app.js
+: 1647690981:0;cd..
+: 1647691044:0;docker run  -dv /home/toc/Documents/EjemplosDocker/app/etc:/etc/todos -p 3000:3000 -v /home/toc/Documents/EjemplosDocker/app/src/:/app/src  getting-started 
+: 1647691322:17;docker build -t getting-started:v2 .
+: 1647693162:0;cd..
+: 1647693200:1;docker stop 805972306cb0
+: 1647693216:0;cd..
+: 1647693220:0;gtrepo
+: 1647693223:0;clear
+: 1647693316:0;git clone https://github.com/ToCarbajal/Portfolio.git
+: 1647693322:0;cd Portfolio
+: 1647693499:1;docker build -t Portfolio .
+: 1647693663:88;docker build -t portfolio .
+: 1647693766:0;docker run -p 5000:5000 portfolio
+: 1647693258:0;clear
+: 1647693261:0;bpytop
+: 1647693248:0;su
+: 1647693862:0;clear
+: 1647693867:0;gtrepo
+: 1647693869:0;cd Portfolio
+: 1647693891:65;docker run --publish 5000:5000 portfolio
+: 1647693979:0;docker logs 1c9fc14756b9
+: 1647694027:0;exit
+: 1647693850:0;clear
+: 1647693942:0;docker ps
+: 1647694030:0;exit
+: 1647694247:0;clear
+: 1647694255:0;docker ps
+: 1647694338:345;docker run -p 5000:5000 portfolio
+: 1647695329:0;gtrepo
+: 1647695564:0;ll
+: 1647695567:0;cd Portfolio
+: 1647696906:0;python3 venv venv
+: 1647697480:3;python3 -m venv venv
+: 1647697886:0;source venv/bin/activate
+: 1647697909:37;pip install -r requirements.txt
+: 1647697971:3665;python3 run_test_server.py
+: 1647701639:0;exit
+: 1647694185:0;cd /home/toc/Documents/EjemplosDocker
+: 1647694196:31;docker create \\
+  --name=rossmountjoyportfolio \\
+  -p 5000:5000 \\
+  --restart unless-stopped \\
+  rmountjoy/portfolio:latest
+: 1647694272:0;docker images
+: 1647694398:0;docker ps
+: 1647694682:1;docker stop 11714f02ea57
+: 1647695321:0;docker ps
+: 1647701642:0;exit
+: 1647701648:0;su
+: 1648152194:0;docker info
+: 1648152197:0;clear
+: 1648153284:0;pwd
+: 1648153292:0;gtrepo
+: 1648153293:0;ll
+: 1648153297:0;cd Portfolio
+: 1648153323:1;docker build -t Portfolio .
+: 1648153331:60;docker build -t portfolio .
+: 1648153568:0;docker run --publish 5000:5000 Portfolio
+: 1648153572:152;docker run --publish 5000:5000 portfolio
+: 1648153727:0;docker ps
+: 1648153733:0;docker ps -a
+: 1648153971:0;exit
+: 1648153692:0;source /home/toc/Repositories/Portfolio/venv/bin/activate
+: 1648154239:0;python3 run_test_server.py
+: 1648163886:0;sr
+: 1648165307:0;exit
+: 1648168204:0;which ly
+: 1648168061:0;echo $XDG_CURRENT_DESKTOP
+: 1648168067:0;$XDG_CURRENT_DESKTOP
+: 1648169268:0;clear
+: 1648169274:0;cdr
+: 1648169277:1;cd etc
+: 1648169279:0;l
+: 1648169281:0;ll
+: 1648169289:0;cd ly
+: 1648169290:0;ll
+: 1648169302:26;sudo nano config.ini
+: 1648169333:0;sr
+: 1648178225:0;colors
+: 1648179756:0;ll
